@@ -1,4 +1,4 @@
-# dsei2100s23hw4p3-feature-selection
+# Comparison of Different Feature Selection Techniques
 The objective of this notebook is to explore and compare various feature selection techniques on scikit-learn's diabetes dataset to identify the most significant features. This process helps in pinpointing the features that contribute the most to machine learning models, reducing dataset dimensionality, addressing potential overfitting concerns, and decreasing computation and memory requirements.
 
 The feature selection methods investigated in this notebook include:
